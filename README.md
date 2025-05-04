@@ -8,7 +8,7 @@ This is a real-time posture detection web application built using **ml5.js** and
 - Draws skeleton lines connecting the joints
 - Built with 'p5.js', 'ml5.js' and 'PoseNet'
 
-  ## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - [p5.js](https://p5js.org/) – for rendering and creative coding
 - [ml5.js](https://ml5js.org/) – easy-to-use machine learning library
