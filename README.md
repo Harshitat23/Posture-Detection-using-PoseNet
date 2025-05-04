@@ -1,13 +1,13 @@
 # Posture-Detection-using-PoseNet
 
-This is a real-time posture detection web application built using **ml5.js** and **PoseNet**. It captures the user's live webcam feed, detects key body points, and displays them visually along with the connecting skeleton.
+This is a real-time posture detection web application built using **ml5.js** and **PoseNet**. It captures the user's live webcam feed, detects key body points and displays them visually along with the connecting skeleton.
 
 ## 🔍 Features
 
 - Real-time pose estimation using your webcam
 - Visualizes keypoints on the user's body
 - Draws skeleton lines connecting the joints
-- Built with 'p5.js', 'ml5.js', and 'PoseNet'
+- Built with 'p5.js', 'ml5.js' and 'PoseNet'
 
   ## 🛠️ Technologies Used
 
